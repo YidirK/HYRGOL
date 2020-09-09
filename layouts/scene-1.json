@@ -1,0 +1,4234 @@
+{
+  "b": 209,
+  "disableInputWhenNotFocused": true,
+  "mangledName": "scene_321",
+  "name": "scene 1",
+  "oglFOV": 90,
+  "oglZFar": 500,
+  "oglZNear": 1,
+  "r": 209,
+  "standardSortMethod": true,
+  "stopSoundsOnStartup": true,
+  "title": "",
+  "v": 209,
+  "uiSettings": {
+    "grid": false,
+    "gridB": 255,
+    "gridG": 180,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridR": 158,
+    "gridWidth": 32,
+    "snap": true,
+    "windowMask": false,
+    "zoomFactor": 0.13
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 1056,
+      "layer": "",
+      "locked": false,
+      "name": "back1",
+      "persistentUuid": "1da2ccba-5dc6-448c-b69a-32f326f6dd4c",
+      "width": 1920,
+      "x": -371,
+      "y": -376,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 120,
+      "layer": "",
+      "locked": false,
+      "name": "discord",
+      "persistentUuid": "a782b6b5-b139-4957-b8d5-d35520e6d51b",
+      "width": 541,
+      "x": 752,
+      "y": 601,
+      "zOrder": 20,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 1407,
+      "layer": "",
+      "locked": false,
+      "name": "obstacle_transp",
+      "persistentUuid": "30a68aef-a081-4288-9d81-cc88f0ab1d34",
+      "width": 269,
+      "x": 3,
+      "y": -372,
+      "zOrder": 21,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 1014,
+      "layer": "",
+      "locked": false,
+      "name": "back2",
+      "persistentUuid": "1deff01a-8874-4e4a-a0eb-31994eda07d2",
+      "width": 1909,
+      "x": 1548,
+      "y": -378,
+      "zOrder": 24,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": -90,
+      "customSize": true,
+      "height": 183,
+      "layer": "",
+      "locked": false,
+      "name": "mur",
+      "persistentUuid": "e23c0651-61f4-4170-aade-eaa2e866250d",
+      "width": 938,
+      "x": 1047,
+      "y": -8,
+      "zOrder": 27,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 491,
+      "layer": "",
+      "locked": false,
+      "name": "route2",
+      "persistentUuid": "f2e4fe62-6517-4bb3-ad51-8b462767948b",
+      "width": 3080,
+      "x": 1541,
+      "y": 547,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 495,
+      "layer": "",
+      "locked": false,
+      "name": "route",
+      "persistentUuid": "018fce50-21ff-4da4-8f56-616929424eae",
+      "width": 2175,
+      "x": -623,
+      "y": 547,
+      "zOrder": 29,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 126,
+      "layer": "",
+      "locked": false,
+      "name": "discord",
+      "persistentUuid": "483a9f53-9c6d-4e66-9799-f1e6b3364f74",
+      "width": 535,
+      "x": 763,
+      "y": 623,
+      "zOrder": 30,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 90.2221,
+      "customSize": true,
+      "height": 234,
+      "layer": "",
+      "locked": false,
+      "name": "platforme1",
+      "persistentUuid": "ae36835d-899e-4eb3-8c44-c3e9e394b5d6",
+      "width": 255,
+      "x": 1813,
+      "y": 376,
+      "zOrder": 34,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 206,
+      "layer": "",
+      "locked": false,
+      "name": "platforme2",
+      "persistentUuid": "4c727d86-ecf7-43c9-bf49-040965caf057",
+      "width": 252,
+      "x": 2790,
+      "y": 386,
+      "zOrder": 35,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": -90,
+      "customSize": true,
+      "height": 292,
+      "layer": "",
+      "locked": false,
+      "name": "mur",
+      "persistentUuid": "a4e8047e-9f13-4372-a94f-33074d3442a0",
+      "width": 1043,
+      "x": 3036,
+      "y": -7,
+      "zOrder": 27,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 1407,
+      "layer": "",
+      "locked": false,
+      "name": "obstacle_transp",
+      "persistentUuid": "e010c578-5bc1-4c06-a33b-64b651b57b19",
+      "width": 269,
+      "x": 3450,
+      "y": -383,
+      "zOrder": 21,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": -269.875,
+      "customSize": true,
+      "height": 292,
+      "layer": "",
+      "locked": false,
+      "name": "mur",
+      "persistentUuid": "9cddbdf7-ce2a-4f17-8d76-fc87a465a342",
+      "width": 1043,
+      "x": 3325,
+      "y": -16,
+      "zOrder": 27,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": -90,
+      "customSize": true,
+      "height": 292,
+      "layer": "",
+      "locked": false,
+      "name": "mur",
+      "persistentUuid": "6326725f-51d0-42ce-8ef1-189dd1bc1c72",
+      "width": 1043,
+      "x": 3607,
+      "y": -8,
+      "zOrder": 27,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": -90,
+      "customSize": true,
+      "height": 292,
+      "layer": "",
+      "locked": false,
+      "name": "mur",
+      "persistentUuid": "f0fc9070-423c-41b1-94d2-c3189ab03b52",
+      "width": 1043,
+      "x": 3885,
+      "y": -25,
+      "zOrder": 27,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": -90,
+      "customSize": true,
+      "height": 292,
+      "layer": "",
+      "locked": false,
+      "name": "mur",
+      "persistentUuid": "5b617954-4eac-496c-b5e9-7316dfcb9cb1",
+      "width": 1043,
+      "x": 4155,
+      "y": -29,
+      "zOrder": 27,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 112,
+      "layer": "",
+      "locked": false,
+      "name": "kabylegamers",
+      "persistentUuid": "c8663f29-0c15-4c74-990e-5a01cd234a18",
+      "width": 306,
+      "x": 1614,
+      "y": 614,
+      "zOrder": 36,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 303,
+      "layer": "",
+      "locked": false,
+      "name": "porte",
+      "persistentUuid": "3c1c73db-c706-4590-8aa2-c39435b9d40b",
+      "width": 164,
+      "x": 3227,
+      "y": -63,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 74,
+      "layer": "",
+      "locked": false,
+      "name": "notif",
+      "persistentUuid": "45d717c7-ace5-4fd4-ab1d-2e34aaef18cc",
+      "width": 78,
+      "x": 3287,
+      "y": -145,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "yidir",
+      "persistentUuid": "81decb03-062c-4c4e-87f3-b3670af09b44",
+      "width": 0,
+      "x": 76,
+      "y": 169,
+      "zOrder": 40,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 89.6154,
+      "customSize": true,
+      "height": 184,
+      "layer": "",
+      "locked": false,
+      "name": "obstacle",
+      "persistentUuid": "5affcc2c-eeab-4683-a04f-9e69953bb9e0",
+      "width": 359,
+      "x": 2128,
+      "y": 324,
+      "zOrder": 41,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 416,
+      "layer": "",
+      "locked": false,
+      "name": "Discord_mec",
+      "persistentUuid": "af0cb98e-5229-47ca-b343-4f1afdf287c0",
+      "width": 289,
+      "x": 998,
+      "y": 190,
+      "zOrder": 42,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 96,
+      "layer": "",
+      "locked": false,
+      "name": "dialog",
+      "persistentUuid": "bb30573e-8ce0-4a73-a6a1-440327aebbd0",
+      "width": 94,
+      "x": 1088,
+      "y": 127,
+      "zOrder": 43,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 735,
+      "layer": "Layer2",
+      "locked": false,
+      "name": "notif_objectif",
+      "persistentUuid": "a1293bdc-caa4-46a3-909c-3c0b72b2b39d",
+      "width": 1275,
+      "x": 0,
+      "y": -197,
+      "zOrder": 45,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 192,
+      "layer": "",
+      "locked": false,
+      "name": "rompe",
+      "persistentUuid": "4ec3f82b-5a22-4c38-99bb-fa95b8f488b8",
+      "width": 230,
+      "x": 3197,
+      "y": 236,
+      "zOrder": 46,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 61,
+      "layer": "",
+      "locked": false,
+      "name": "NewObject2",
+      "persistentUuid": "355383fb-6c2c-4677-9203-1f274fdcbcaa",
+      "width": 126,
+      "x": 3311,
+      "y": -119,
+      "zOrder": 47,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "name": "Discord_mec",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\zz3lq50dgae41.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "yidir",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 1500,
+          "canGrabPlatforms": false,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": false,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "roundCoordinates": true,
+          "slopeMaxAngle": 60,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "pause",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00000.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00001.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00002.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00003.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00004.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00005.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00006.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00007.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00008.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00009.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00010.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00011.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00012.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00013.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00014.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00015.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00016.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00017.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00018.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardIdle\\Chara - BlueIdle00019.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "saut",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardJump\\CharaWizardJump_00000.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardJump\\CharaWizardJump_00001.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardJump\\CharaWizardJump_00002.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardJump\\CharaWizardJump_00003.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardJump\\CharaWizardJump_00004.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardJump\\CharaWizardJump_00005.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardJump\\CharaWizardJump_00006.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardJump\\CharaWizardJump_00007.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "marche",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00000.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00001.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00002.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00003.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00004.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00005.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00006.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00007.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00008.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00009.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00010.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00011.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00012.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00013.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00014.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00015.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00016.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00017.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00018.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\yidir\\2BlueWizardWalk\\Chara_BlueWalk00019.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 209.2,
+                        "y": 163.6
+                      },
+                      {
+                        "x": 305.2,
+                        "y": 166.6
+                      },
+                      {
+                        "x": 322,
+                        "y": 398.6
+                      },
+                      {
+                        "x": 202,
+                        "y": 397
+                      },
+                      {
+                        "x": 197.2,
+                        "y": 374.6
+                      },
+                      {
+                        "x": 186.8,
+                        "y": 350.6
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "dash",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\yidir\\2BlueWizardJump\\Dash3\\Dash3_00000.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\yidir\\2BlueWizardJump\\Dash3\\Dash3_00001.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\yidir\\2BlueWizardJump\\Dash3\\Dash3_00002.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\yidir\\2BlueWizardJump\\Dash3\\Dash3_00003.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\yidir\\2BlueWizardJump\\Dash3\\Dash3_00004.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\yidir\\2BlueWizardJump\\Dash3\\Dash3_00005.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\yidir\\2BlueWizardJump\\Dash3\\Dash3_00006.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\yidir\\2BlueWizardJump\\Dash3\\Dash3_00007.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\yidir\\2BlueWizardJump\\Dash3\\Dash3_00008.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\yidir\\2BlueWizardJump\\Dash3\\Dash3_00009.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\yidir\\2BlueWizardJump\\Dash3\\Dash3_00010.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\yidir\\2BlueWizardJump\\Dash3\\Dash3_00011.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\yidir\\2BlueWizardJump\\Dash3\\Dash3_00012.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\yidir\\2BlueWizardJump\\Dash3\\Dash3_00013.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\yidir\\2BlueWizardJump\\Dash3\\Dash3_00014.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\yidir\\2BlueWizardJump\\Dash3\\Dash3_00015.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": 32,
+      "name": "route2",
+      "tags": "",
+      "texture": "images\\a0a19f202a21ad0223fd3f7bf646f1b3.jpg",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "height": 32,
+      "name": "discord",
+      "tags": "",
+      "texture": "images\\Discord-Wordmark-White.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "behaviors": []
+    },
+    {
+      "height": 32,
+      "name": "obstacle_transp",
+      "tags": "",
+      "texture": "images\\Sans titre-1.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "bold": false,
+      "italic": false,
+      "name": "texte_mec_discord",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": "Oh te revoilà .... bon retour parmi nous. Vous utilisez Discord 2D , vous avez un seul serveur discord avec cette technologie (KabyleGamers), si vous voulez accéder marcher tout droit .....",
+      "font": "images\\NeoFobia-Regular.ttf",
+      "characterSize": 20,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
+    },
+    {
+      "height": 32,
+      "name": "back2",
+      "tags": "",
+      "texture": "images\\fondo-ilustracion-vector-paisaje_1948-84.jpg",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "behaviors": []
+    },
+    {
+      "height": 32,
+      "name": "route",
+      "tags": "",
+      "texture": "images\\a0a19f202a21ad0223fd3f7bf646f1b3.jpg",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 100
+        }
+      ]
+    },
+    {
+      "height": 32,
+      "name": "back1",
+      "tags": "",
+      "texture": "images\\Sean1.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "behaviors": []
+    },
+    {
+      "height": 32,
+      "name": "mur",
+      "tags": "",
+      "texture": "images\\mure.jpg",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "behaviors": []
+    },
+    {
+      "height": 32,
+      "name": "NewObject",
+      "tags": "",
+      "texture": "",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "behaviors": []
+    },
+    {
+      "name": "platforme2",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\3-removebg-preview.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 12.4
+                      },
+                      {
+                        "x": 124,
+                        "y": 14
+                      },
+                      {
+                        "x": 123.2,
+                        "y": 114
+                      },
+                      {
+                        "x": 25.6,
+                        "y": 113
+                      },
+                      {
+                        "x": 27.2,
+                        "y": 96.2
+                      },
+                      {
+                        "x": 13.6,
+                        "y": 35.4
+                      },
+                      {
+                        "x": 28,
+                        "y": 30.6
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "platforme1",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\2-removebg-preview.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 12,
+                        "y": 15.6
+                      },
+                      {
+                        "x": 110.4,
+                        "y": 14.8
+                      },
+                      {
+                        "x": 107.2,
+                        "y": 111.6
+                      },
+                      {
+                        "x": 11.2,
+                        "y": 112.4
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": 32,
+      "name": "kabylegamers",
+      "tags": "",
+      "texture": "images\\kabylegamers.jpg",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "behaviors": []
+    },
+    {
+      "name": "dialog",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\dialog.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "porte",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\png\\Objects\\DoorLocked.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\png\\Objects\\DoorOpen.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "notif",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\notif.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "obstacle",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\mure.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "notif_objectif",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\notif\\1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\notif\\2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\notif\\3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\notif\\4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\notif\\5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\notif\\1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\notif\\2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\notif\\3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\notif\\4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "images\\notif\\5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rompe",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\png\\Tiles\\Tile (15).png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 18,
+                        "y": 1.2
+                      },
+                      {
+                        "x": 245.2,
+                        "y": 0.4
+                      },
+                      {
+                        "x": 254.8,
+                        "y": 10.8
+                      },
+                      {
+                        "x": 254,
+                        "y": 54.6
+                      },
+                      {
+                        "x": 240.4,
+                        "y": 65
+                      },
+                      {
+                        "x": 238,
+                        "y": 103.4
+                      },
+                      {
+                        "x": 244.4,
+                        "y": 114.6
+                      },
+                      {
+                        "x": 239.6,
+                        "y": 127.4
+                      },
+                      {
+                        "x": 18,
+                        "y": 127.4
+                      },
+                      {
+                        "x": 6.79999,
+                        "y": 115.4
+                      },
+                      {
+                        "x": 18.8,
+                        "y": 102.6
+                      },
+                      {
+                        "x": 18,
+                        "y": 62.6
+                      },
+                      {
+                        "x": 2.79999,
+                        "y": 50.6
+                      },
+                      {
+                        "x": -0.399963,
+                        "y": 5.8
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bold": false,
+      "italic": false,
+      "name": "NewObject2",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": "tædium vitæ\n",
+      "font": "",
+      "characterSize": 5,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
+    }
+  ],
+  "events": [
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Comment",
+      "color": {
+        "b": 109,
+        "g": 230,
+        "r": 255,
+        "textB": 0,
+        "textG": 0,
+        "textR": 0
+      },
+      "comment": "animation perso\n",
+      "comment2": ""
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "PlatformBehavior::IsJumping"
+          },
+          "parameters": [
+            "yidir",
+            "PlatformerObject"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "SetAnimationName"
+          },
+          "parameters": [
+            "yidir",
+            "\"saut\""
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "PlatformBehavior::IsOnFloor"
+          },
+          "parameters": [
+            "yidir",
+            "PlatformerObject"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsMoving"
+              },
+              "parameters": [
+                "yidir",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "yidir",
+                "\"marche\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::IsMoving"
+              },
+              "parameters": [
+                "yidir",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "yidir",
+                "\"pause\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ]
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "CentreCamera"
+          },
+          "parameters": [
+            "",
+            "yidir",
+            "",
+            "",
+            ""
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Comment",
+      "color": {
+        "b": 109,
+        "g": 230,
+        "r": 255,
+        "textB": 0,
+        "textG": 0,
+        "textR": 0
+      },
+      "comment": "z,s,q,d",
+      "comment2": ""
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "KeyPressed"
+          },
+          "parameters": [
+            "",
+            "z"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "PlatformBehavior::JumpSustainTime"
+          },
+          "parameters": [
+            "yidir",
+            "PlatformerObject",
+            "*",
+            "2"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "KeyPressed"
+          },
+          "parameters": [
+            "",
+            "d"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "PlatformBehavior::SimulateRightKey"
+          },
+          "parameters": [
+            "yidir",
+            "PlatformerObject"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "KeyPressed"
+          },
+          "parameters": [
+            "",
+            "q"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "PlatformBehavior::SimulateLeftKey"
+          },
+          "parameters": [
+            "yidir",
+            "PlatformerObject"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Comment",
+      "color": {
+        "b": 109,
+        "g": 230,
+        "r": 255,
+        "textB": 0,
+        "textG": 0,
+        "textR": 0
+      },
+      "comment": "text\n",
+      "comment2": ""
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Comment",
+      "color": {
+        "b": 109,
+        "g": 230,
+        "r": 255,
+        "textB": 0,
+        "textG": 0,
+        "textR": 0
+      },
+      "comment": "move a une autre secean ",
+      "comment2": ""
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "yidir",
+            "porte",
+            "",
+            "",
+            ""
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "f"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"prez\"",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "porte",
+                "\"2\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ]
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Comment",
+      "color": {
+        "b": 109,
+        "g": 230,
+        "r": 255,
+        "textB": 0,
+        "textG": 0,
+        "textR": 0
+      },
+      "comment": "autre trucc\n",
+      "comment2": ""
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Comment",
+      "color": {
+        "b": 109,
+        "g": 230,
+        "r": 255,
+        "textB": 0,
+        "textG": 0,
+        "textR": 0
+      },
+      "comment": "gamepad",
+      "comment2": ""
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [],
+      "events": []
+    }
+  ],
+  "layers": [
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "name": "",
+      "visibility": true,
+      "cameras": [
+        {
+          "defaultSize": true,
+          "defaultViewport": true,
+          "height": 0,
+          "viewportBottom": 1,
+          "viewportLeft": 0,
+          "viewportRight": 1,
+          "viewportTop": 0,
+          "width": 0
+        }
+      ],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "name": "Layer",
+      "visibility": true,
+      "cameras": [],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "name": "Layer2",
+      "visibility": true,
+      "cameras": [],
+      "effects": []
+    }
+  ],
+  "behaviorsSharedData": [
+    {
+      "name": "Platform",
+      "type": "PlatformBehavior::PlatformBehavior"
+    },
+    {
+      "name": "PlatformerObject",
+      "type": "PlatformBehavior::PlatformerObjectBehavior"
+    }
+  ]
+}
